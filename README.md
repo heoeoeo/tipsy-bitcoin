@@ -5,6 +5,12 @@ C-powered. Beer-fueled. Terminal-native.
 
 
 
+## 🎬 Demo
+
+![Tipsy Bitcoin demo](assets/tnbc_demo.gif)
+
+
+
 ## 🧠 How It Works
 
 - Static ASCII art of the Bitcoin logo
