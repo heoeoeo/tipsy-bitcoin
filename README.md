@@ -7,7 +7,7 @@ C-powered. Beer-fueled. Terminal-native.
 
 ## 🎬 Demo
 
-![Tipsy Bitcoin demo](assets/tnbc_demo.gif)
+![Tipsy Bitcoin demo](https://github.com/heoeoeo/tipsy-bitcoin/blob/main/asset/tipsy_bitcoin.gif)
 
 
 
