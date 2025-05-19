@@ -22,6 +22,6 @@ C-powered. Beer-fueled. Terminal-native.
 ## ⚙️ Build & Run
 
 ```bash
-gcc -o tipsy_bitcoin bitcoin.c -lm
+make
 ./tipsy_bitcoin
 ```
